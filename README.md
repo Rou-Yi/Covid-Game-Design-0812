@@ -5,7 +5,7 @@ See some screenshot of this game.
 ![screenshot of game2](https://github.com/Rou-Yi/Covid-Game-Design/blob/main/02.png?raw=true)
 
 The following is the UML.
-![UML](https://github.com/Rou-Yi/Covid-Game-Design/blob/main/UML%20for%202.0.jpg?raw=true)
+![UML](https://github.com/Rou-Yi/Covid-Game-Design-0812/blob/main/UML%20for%202.0.jpg?raw=true)
 
 
 ➤➤➤　東西太多，上傳不了了 Q A Q  
